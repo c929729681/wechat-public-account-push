@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  // APP_ID: "",
+  // APP_ID: "wx9580c9df599c4ad3",
 
   // 公众号APP_SECRET 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  // APP_SECRET: "",
+  // APP_SECRET: "c4f55cd2a5760ae73fa1c5e1988572ea",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -44,12 +44,12 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
+      name: "可爱东", 
+      id: "oYMdj6GQ8mvmlFSBLP2OTJhw8u-I",
       useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      province: "上海",
+      city: "松江",
+      openUrl: "https://mcenter.lixin.edu.cn/r/or?cmd=CLIENT_DW_PORTAL&processGroupId=obj_3d1d30b4f1ba4960bc1a6a4980af42c8&appId=com.awspaas.user.apps.dailyreport&dwViewId=obj_b9bff5bf1d034314aa5779a58947b27c&corpid=wx1f0c577c13491951&appAgentId=1000007&oauthName=wechat"
     }, 
     {
       name: "老婆2",
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oYMdj6GQ8mvmlFSBLP2OTJhw8u-I",
     }, 
   ],
     
@@ -106,8 +106,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+    {"type": "生日", "name": "11", "year": "1998", "date": "10-17"},
+    {"type": "节日", "name": "认识了", "year": "2022", "date": "08-31"},
     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
