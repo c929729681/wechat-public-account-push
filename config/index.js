@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    useTemplateId: "q43YY6QOPWT_OUZjGfE_P5-ypLpRMV2WnlHqmQokzNw",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -46,10 +46,10 @@ export const config = {
     {
       name: "可爱东", 
       id: "oYMdj6GQ8mvmlFSBLP2OTJhw8u-I",
-      useTemplateId: "LdY3ts9iqSPcr4dDhaVSGDiROLPPHIShopuoedK_TSQ",
+      useTemplateId: "q43YY6QOPWT_OUZjGfE_P5-ypLpRMV2WnlHqmQokzNw",
       province: "上海",
       city: "上海",
-      openUrl: "https://mcenter.lixin.edu.cn/r/or?cmd=CLIENT_DW_PORTAL&processGroupId=obj_3d1d30b4f1ba4960bc1a6a4980af42c8&appId=com.awspaas.user.apps.dailyreport&dwViewId=obj_b9bff5bf1d034314aa5779a58947b27c&corpid=wx1f0c577c13491951&appAgentId=1000007&oauthName=wechat"
+      openUrl: "https://cas.sues.edu.cn/cas/login?service=https%3A%2F%2Fworkflow.sues.edu.cn%2Fdefault%2Fwork%2Fshgcd%2Fjkxxcj%2Fjkxxcj.jsp%3Fiportal.uid%3D83957%26iportal.uxid%3D031619112%26iportal.uname%3D%25E6%259D%258E%25E6%25B2%2590%25E6%25A1%2590%26iportal.timestamp%3D1662543893731%26iportal.nonce%3D6416%26iportal.signature%3Dc5501b1e4a4bc244b20806b4d678b418fa5444fd"
     }, 
     {
       name: "老婆2",
@@ -93,9 +93,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "上海",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "上海",
 
   /** 重要节日相关 */
 
@@ -106,10 +106,10 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "11", "year": "1998", "date": "10-17"},
-    {"type": "节日", "name": "认识了", "year": "2022", "date": "08-31"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "东东", "year": "1998", "date": "10-17"},
+    {"type": "节日", "name": "相识的", "year": "2022", "date": "09-01"},
+    {"type": "生日", "name": "桐桐", "year": "2001", "date": "03-22"},
+    {"type": "节日", "name": "桐桐访问地球的第", "year": "2001", "date": "03-22"},
   ],
 
   /**
