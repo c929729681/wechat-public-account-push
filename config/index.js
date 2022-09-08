@@ -48,7 +48,7 @@ export const config = {
       id: "oYMdj6GQ8mvmlFSBLP2OTJhw8u-I",
       useTemplateId: "LdY3ts9iqSPcr4dDhaVSGDiROLPPHIShopuoedK_TSQ",
       province: "上海",
-      city: "松江",
+      city: "上海",
       openUrl: "https://mcenter.lixin.edu.cn/r/or?cmd=CLIENT_DW_PORTAL&processGroupId=obj_3d1d30b4f1ba4960bc1a6a4980af42c8&appId=com.awspaas.user.apps.dailyreport&dwViewId=obj_b9bff5bf1d034314aa5779a58947b27c&corpid=wx1f0c577c13491951&appAgentId=1000007&oauthName=wechat"
     }, 
     {
